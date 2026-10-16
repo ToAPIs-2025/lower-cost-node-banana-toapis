@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M5187Y0GFZGYVC9D0K8P49MW",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "An original unbranded pale yellow lemon soda can surrounded by fresh cut lemons on a mint-green background, crisp commercial flat-lay photograph, condensation droplets, clean soft shadows, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "An original unbranded pale yellow lemon soda can surrounded by fresh cut lemons on a mint-green background, crisp commercial flat-lay photograph, condensation droplets, clean soft shadows, no text, no logos, square composition.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "6c2da31e2a04876f60c1425b9c0f6ce1578a293dbf6cd28f921ade1738a0a948",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

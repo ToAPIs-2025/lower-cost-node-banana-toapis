@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gemini-nano-banana-2.1",
+  "prompt": "An original unbranded pale yellow lemon soda can surrounded by fresh cut lemons on a mint-green background, crisp commercial flat-lay photograph, condensation droplets, clean soft shadows, no text, no logos, square composition.",
+  "size": "1024x1024",
+  "run_id": "1016-nb-2",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "evidence": "evidence/gemini-nano-banana-2-1.json"
+}

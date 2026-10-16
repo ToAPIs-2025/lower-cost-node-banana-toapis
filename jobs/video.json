@@ -1,0 +1,11 @@
+{
+  "kind": "video",
+  "model": "MiniMax-H3",
+  "duration": 5,
+  "resolution": "768p",
+  "prompt": "A slow camera orbit around the original lemon soda can, gentle condensation highlights, fresh lemons remain in place, no text.",
+  "image": "https://raw.githubusercontent.com/ToAPIs-2025/lower-cost-node-banana-toapis/main/examples/gpt-image-2-vip.png",
+  "run_id": "my-explicit-video-run",
+  "output": "demo/my-video.mp4",
+  "evidence": "evidence/my-video.json"
+}

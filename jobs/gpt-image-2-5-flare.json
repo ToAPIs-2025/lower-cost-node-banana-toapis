@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2.5-flare",
+  "prompt": "An original unbranded pale yellow lemon soda can surrounded by fresh cut lemons on a mint-green background, crisp commercial flat-lay photograph, condensation droplets, clean soft shadows, no text, no logos, square composition.",
+  "size": "1024x1024",
+  "run_id": "1016-nb-1",
+  "output": "examples/gpt-image-2-5-flare.png",
+  "evidence": "evidence/gpt-image-2-5-flare.json"
+}
